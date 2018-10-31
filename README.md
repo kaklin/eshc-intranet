@@ -1,7 +1,10 @@
+Project continuing over at https://github.com/eshc/eshc-intranet
+
 # ESHC Intranet
 [ESHC Homepage](http://edinburghcoop.wordpress.com/)
 
-[Heroku deployment](https://eshc.herokuapp.com/)
+~~[Heroku deployment](https://eshc.herokuapp.com/)~~
+Now redirecting to [Heroku deployment](https://intranet.eshc.coop/)
 
 ## Goal
 Make usable intranet.
