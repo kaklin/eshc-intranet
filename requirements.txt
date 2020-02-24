@@ -1,7 +1,7 @@
 appdirs==1.4.3
 argh==0.26.2
 beautifulsoup4==4.6.0
-bleach==1.5.0
+bleach==3.1.1
 boto3==1.4.4
 botocore==1.5.86
 certifi==2017.4.17
