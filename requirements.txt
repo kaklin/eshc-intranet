@@ -54,7 +54,7 @@ pdfrw==0.3
 Pillow==6.2.0
 pipdeptree==0.10.1
 psycopg2==2.7.1
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.0
 pyquery==1.2.17
 python-dateutil==2.6.1
